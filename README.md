@@ -8,6 +8,8 @@ Please 'share the gospel of good data practices'! :)
 
 1. Presentation slides (incl. 'INSTALL & TROUBLESHOOTING') are in 'presentation' folder (in .pdf format);
 
-2. Handouts (.ipynb files in .pdf format) are in 'handout' folder
+2. Handouts (.ipynb files in .pdf format) are in 'handout' folder;
 
-3. Actual .ipynb (Jupyter Notebook) files are in 'scripts' folder
+3. Actual .ipynb (Jupyter Notebook) files are in 'scripts' folder;
+
+4. Raw data input files (gapminder) can be found in 'raw_data_inputs' folder.
