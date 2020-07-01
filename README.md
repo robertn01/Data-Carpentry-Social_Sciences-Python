@@ -6,7 +6,7 @@ Suggestions/ contributions are warmly welcomed! Please leave any constructive fe
 
 Please 'share the gospel of good data practices'! :)
 
-1. Presentation slides (incl. 'INSTALL & TROUBLESHOOTING') are in 'presentation' folder (in .pdf format);
+1. Presentation slides (incl. 'INSTALL & TROUBLESHOOTING') are in 'presentation' folder (in .pdf/ .html format);
 
 2. Handouts (.ipynb files in .pdf format) are in 'handout' folder;
 
