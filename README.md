@@ -10,6 +10,6 @@ Please 'share the gospel of good data practices'! :)
 
 2. Handouts (.ipynb files in .pdf/ .html format format) are in 'handout' folder;
 
-3. Actual .ipynb (Jupyter Notebook) files are in 'scripts' folder;
+3. Actual .ipynb (Jupyter Notebook) files are in 'scripts' folder --> These are what we'll going to use during the workshop!
 
-4. Raw data input files (gapminder) can be found in 'raw_data_inputs' folder, as well as 'sripts/ data' folder.
+4. Raw data input files (gapminder) can be found in 'raw_data_inputs' folder, as well as 'sripts/ empty_notebooks/ data' folder.
